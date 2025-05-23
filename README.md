@@ -7,9 +7,9 @@ A sua lista de compras pessoal para Android, feita em Kotlin!
 - [🏠 Tela Principal](#tela-principal)
 - [⚙️ Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [🧱 Estrutura do Projeto](#estrutura-do-projeto)
-- [🧠 Explicação do Código](#explicacao-do-codigo)
+- [🧠 Explicação do Código](#explicação-do-código)
 - [🧩 Main](#main)
-- [📦 Dependências](#dependencias)
+- [📦 Dependências](#dependências)
 
 ## Funcionalidades
 
